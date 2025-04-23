@@ -1,0 +1,32 @@
+_repo: Der-Skorpion-Band-2_75685
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weirauch, Anna Elisabet
+    birthdate: 1887
+    deathdate: 1970
+    gutenberg_agent_id: '57981'
+    url: http://www.gutenberg.org/2009/agents/57981
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anna_Elisabet_Weirauch
+    - https://de.wikipedia.org/wiki/Anna_Elisabet_Weirauch
+description: ''
+gutenberg_issued: '2025-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75685'
+language: de
+pgterms:marc905: 20240427235607weirauch
+pgterms:marc906: '1921'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bAskanischer Verlag, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lesbians -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Der Skorpion. Band 2
+url: http://www.gutenberg.org/ebooks/75685
